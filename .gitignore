@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+jobs/*/
+!jobs/.gitkeep
+*.pt
+*.pt
